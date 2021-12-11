@@ -1,0 +1,7 @@
+digraph {
+	size="10,10"
+	0 [label="node id: 0
+cl = 1
+cl 0: 4
+cl 1: 6" fillcolor=red style=filled]
+}
